@@ -1,2 +1,3 @@
 # hello-world
-new reposity
+new repository
+almost freak out 
